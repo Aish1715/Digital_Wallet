@@ -4,11 +4,11 @@ A RESTful Node.js/Express backend for a digital wallet system with user authenti
 
 # Features #
 
-# User & Authentication
+## User & Authentication
 - Register and login using JWT-based authentication
 - Soft delete support for users
 
-# Wallet Operations
+## Wallet Operations
 - Deposit and withdraw virtual cash
 - Transfer money between users
 - View transaction history
