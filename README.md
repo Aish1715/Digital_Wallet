@@ -1,7 +1,9 @@
 # Digital Wallet Backend #
 A RESTful Node.js/Express backend for a digital wallet system with user authentication, wallet operations, fraud detection, and admin reporting features.
 
+
 # Features #
+
 # User & Authentication
 - Register and login using JWT-based authentication
 - Soft delete support for users
